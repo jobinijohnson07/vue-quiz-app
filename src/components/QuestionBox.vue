@@ -67,7 +67,7 @@ export default {
          }
       }
    },
-   methods: {
+    methods: {
       selectAnswer(index) {
          this.selectedIndex = index   
       },
